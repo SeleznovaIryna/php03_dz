@@ -1,0 +1,48 @@
+.menu{
+    padding: 10px;
+    margin-left: 43%;
+
+
+}
+.menu li{
+    text-align: center;
+    background-color: #ffeafd;
+    padding: 10px;
+    margin-bottom: 10px;
+    list-style: none;
+    width: 20%;
+    border: 1px solid black;
+    font-size: 22px;
+    font-style: italic;
+    border-radius: 5%;
+}
+.menu li a{
+    color: black;
+    text-decoration: none;
+}
+.content{
+    font-size: 22px;
+    color: #150082;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.content li{
+    text-align: center;
+    list-style: none;
+    color: black;
+}
+.news h3{
+    text-align: center;
+    color: #505ee2;
+}
+.photo img{
+    width: 750px;
+    display: block;
+    margin-left: 25%;
+
+}
+.photo{
+    text-align: center;
+}
